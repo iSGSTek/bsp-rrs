@@ -11,4 +11,6 @@ Development of Credit Surety Fund
 This Project is Develop in Java EE 8
 
 * used updated DATE & Time API features of JEE8
+* Embed XBRL Core API for Report Receiving System - Report Maintenance Module
+
 

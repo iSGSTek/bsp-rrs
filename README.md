@@ -1,4 +1,4 @@
-# bsp-rrs
+# Report Receiving System Portal
 Banko Sentral ng Pilipinas 
 Information Technology Sub-Sector
 
